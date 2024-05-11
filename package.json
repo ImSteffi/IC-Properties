@@ -14,5 +14,9 @@
   "type": "module",
   "workspaces": [
     "src/Property_frontend"
-  ]
+  ],
+  "devDependencies": {
+    "@dfinity/auth-client": "^1.3.0",
+    "@dfinity/identity": "^1.3.0"
+  }
 }
